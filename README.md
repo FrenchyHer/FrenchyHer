@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FrenchyHer
-- 👀 I’m interested in Cloud Security and Blockchain 
-- 🌱 I’m currently learning Blockchain 
-- 💞️ I’m looking to collaborate on Blockchain development Projects (Ethereum) and Cloud related Ptojects
+- 👀 I’m interested in Cloud and Blockchain 
+- 🌱 I’m currently learning Devops
+- 💞️ I’m looking to collaborate on Blockchain development Projects (Ethereum) and Cloud related Projects
 - 📫 How to reach me Here
 
 <!---
